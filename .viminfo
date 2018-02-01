@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1517457289,,"wq"
+|2,0,1517457995,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,34 @@
 # Registers:
 
 # File marks:
-'0  9  35  ~/javahelloworld.java
-|4,48,9,35,1517457289,"~/javahelloworld.java"
-'1  3  13  ~/Dockerfile
-|4,49,3,13,1517456684,"~/Dockerfile"
-'2  1  16  ~/javahelloworld.java
-|4,50,1,16,1517456647,"~/javahelloworld.java"
-'3  1  16  ~/javahelloworld.java
-|4,51,1,16,1517456647,"~/javahelloworld.java"
-'4  14  0  ~/javahelloworld
-|4,52,14,0,1517456594,"~/javahelloworld"
-'5  3  24  ~/Dockerfile
-|4,53,3,24,1517456546,"~/Dockerfile"
+'0  10  45  ~/javahelloworld.java
+|4,48,10,45,1517457995,"~/javahelloworld.java"
+'1  9  35  ~/javahelloworld.java
+|4,49,9,35,1517457289,"~/javahelloworld.java"
+'2  9  35  ~/javahelloworld.java
+|4,50,9,35,1517457289,"~/javahelloworld.java"
+'3  3  13  ~/Dockerfile
+|4,51,3,13,1517456684,"~/Dockerfile"
+'4  1  16  ~/javahelloworld.java
+|4,52,1,16,1517456647,"~/javahelloworld.java"
+'5  1  16  ~/javahelloworld.java
+|4,53,1,16,1517456647,"~/javahelloworld.java"
+'6  1  16  ~/javahelloworld.java
+|4,54,1,16,1517456647,"~/javahelloworld.java"
+'7  1  16  ~/javahelloworld.java
+|4,55,1,16,1517456647,"~/javahelloworld.java"
+'8  14  0  ~/javahelloworld
+|4,56,14,0,1517456594,"~/javahelloworld"
+'9  3  24  ~/Dockerfile
+|4,57,3,24,1517456546,"~/Dockerfile"
 
 # Jumplist (newest first):
+-'  10  45  ~/javahelloworld.java
+|4,39,10,45,1517457995,"~/javahelloworld.java"
+-'  1  0  ~/javahelloworld.java
+|4,39,1,0,1517457965,"~/javahelloworld.java"
+-'  9  35  ~/javahelloworld.java
+|4,39,9,35,1517457289,"~/javahelloworld.java"
 -'  9  35  ~/javahelloworld.java
 |4,39,9,35,1517457289,"~/javahelloworld.java"
 -'  1  0  ~/javahelloworld.java
@@ -47,6 +61,14 @@
 |4,39,3,13,1517456684,"~/Dockerfile"
 -'  3  13  ~/Dockerfile
 |4,39,3,13,1517456684,"~/Dockerfile"
+-'  3  13  ~/Dockerfile
+|4,39,3,13,1517456684,"~/Dockerfile"
+-'  3  13  ~/Dockerfile
+|4,39,3,13,1517456684,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456671,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456671,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1517456671,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -71,6 +93,38 @@
 |4,39,14,0,1517456594,"~/javahelloworld"
 -'  14  0  ~/javahelloworld
 |4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  14  0  ~/javahelloworld
+|4,39,14,0,1517456594,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
+-'  1  0  ~/javahelloworld
+|4,39,1,0,1517456571,"~/javahelloworld"
 -'  1  0  ~/javahelloworld
 |4,39,1,0,1517456571,"~/javahelloworld"
 -'  1  0  ~/javahelloworld
@@ -103,6 +157,38 @@
 |4,39,3,24,1517456546,"~/Dockerfile"
 -'  3  24  ~/Dockerfile
 |4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  3  24  ~/Dockerfile
+|4,39,3,24,1517456546,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1517456525,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1517456525,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
@@ -123,13 +209,14 @@
 # History of marks within files (newest to oldest):
 
 > ~/javahelloworld.java
-	*	1517457288	0
-	"	9	35
-	^	9	36
-	.	9	35
+	*	1517457995	0
+	"	10	45
+	^	10	46
+	.	10	45
 	+	2	1
 	+	1	16
 	+	9	35
+	+	10	45
 
 > ~/Dockerfile
 	*	1517456683	0
