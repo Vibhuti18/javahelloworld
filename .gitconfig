@@ -1,2 +1,5 @@
 [url "https://"]   
     insteadOf = git://
+[user]
+	name = vibhuti
+	email = vibhuti_sawant@persistent.co.in
